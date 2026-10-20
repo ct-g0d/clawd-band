@@ -1,0 +1,13 @@
+{
+  "name": "clawd-band",
+  "owner": {
+    "name": "Charles"
+  },
+  "plugins": [
+    {
+      "name": "clawd-band",
+      "source": "./",
+      "description": "A live band above the prompt: desk clock, 5-hour and 7-day limits, session cost, a /context-style CTX bar, cache hit, tokens a second, cache countdown that frosts over, and Claude's status with the turn's time."
+    }
+  ]
+}
