@@ -18,13 +18,13 @@ The figures that only a reply can tell (the limits, the cache countdown, HIT and
 At the prompt of a terminal session:
 
 ```
-/plugin install clawd-band --marketplace charleschenantong-maker/clawd-band
+/plugin install clawd-band --marketplace ct-g0d/clawd-band
 ```
 
 Answer `y` to add the marketplace, then pick a scope. From a shell:
 
 ```bash
-claude plugin install clawd-band --marketplace charleschenantong-maker/clawd-band
+claude plugin install clawd-band --marketplace ct-g0d/clawd-band
 ```
 
 ## Font and Clawd
